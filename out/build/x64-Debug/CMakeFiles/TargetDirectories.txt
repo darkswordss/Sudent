@@ -1,0 +1,3 @@
+C:/Users/Josey's Surface/source/repos/darkswordss/Sudent/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Josey's Surface/source/repos/darkswordss/Sudent/out/build/x64-Debug/CMakeFiles/Sudent.dir
+C:/Users/Josey's Surface/source/repos/darkswordss/Sudent/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
